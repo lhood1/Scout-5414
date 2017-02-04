@@ -1,0 +1,13 @@
+[
+    { "dev_name":"Scout Master", "dev_desc":"Master Listner/Scheduler","dev_id":"SM", "mac_id":"", "bluetooth":""},
+
+    { "dev_name":"Red-1", "dev_desc":"Red Alliance Team 1 Scout","dev_id":"R1", "mac_id":"", "bluetooth":""},
+    { "dev_name":"Red-2", "dev_desc":"Red Alliance Team 2 Scout","dev_id":"R2", "mac_id":"", "bluetooth":""},
+    { "dev_name":"Red-3", "dev_desc":"Red Alliance Team 3 Scout","dev_id":"R3", "mac_id":"", "bluetooth":""},
+    { "dev_name":"Blue-1", "dev_desc":"Blue Alliance Team 1 Scout","dev_id":"B1", "mac_id":"", "bluetooth":""},
+    { "dev_name":"Blue-2", "dev_desc":"Blue Alliance Team 2 Scout","dev_id":"B2", "mac_id":"", "bluetooth":""},
+    { "dev_name":"Blue-3", "dev_desc":"Blue Alliance Team 3 Scout","dev_id":"B3", "mac_id":"", "bluetooth":""},
+
+    { "dev_name":"Visualizer", "dev_desc":"Data Processor","dev_id":"VZ", "mac_id":"", "bluetooth":""}
+
+]

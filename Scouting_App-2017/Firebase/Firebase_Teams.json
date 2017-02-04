@@ -1,0 +1,160 @@
+
+[
+    { "team_num":" 418", "team_name":"Purple Haze","team_loc":"Austin, TX"},
+    {	"team_num":" 647", 
+        "team_name":"Cyberwolves",
+        "team_loc":"Killeen, TX"
+    },
+    {	"team_num":" 704", 
+        "team_name":"Warriors",
+        "team_loc":"Grand Prarie, TX"
+    },
+    {	"team_num":"1296", 
+        "team_name":"Full Metal Jackets",
+        "team_loc":"Rockwall, TX"
+    },
+    {	"team_num":"1642", 
+        "team_name":"Techno-Cats",
+        "team_loc":"Fort Worth, TX"
+    },
+    {	"team_num":"1745", 
+        "team_name":"P-51 Mustangs",
+        "team_loc":"Richardson, TX"
+    },
+    {	"team_num":"1817", 
+        "team_name":"Llano Estcado RoboRaiders",
+        "team_loc":"Lubbock, TX"
+    },
+    {	"team_num":"2333", 
+        "team_name":"S.C.R.E.E.C.H",
+        "team_loc":"Sapulpa, OK"
+    },
+    {	"team_num":"2721", 
+        "team_name":"Blue mite",
+        "team_loc":"Lasara, TX"
+    },
+    {	"team_num":"2805", 
+        "team_name":"Ghost in the Machine",
+        "team_loc":"Waxahachie, TX"
+    },
+    {	"team_num":"2848", 
+        "team_name":"? ALL SPARKS ?",
+        "team_loc":"Dallas, TX"
+    },
+    {	"team_num":"2897", 
+        "team_name":"Raven Robotics",
+        "team_loc":"Waco, TX"
+    },
+    {	"team_num":"2950", 
+        "team_name":"Devastators",
+        "team_loc":"Waco, TX"
+    },
+    {	"team_num":"3005", 
+        "team_name":"RoboChargers",
+        "team_loc":"Dallas, TX"
+    },
+    {	"team_num":"3310", 
+        "team_name":"Black Hawk Robotics",
+        "team_loc":"Rockwall, TX"
+    },
+    {	"team_num":"3417", 
+        "team_name":"Akins Robotics",
+        "team_loc":"TAustin, TX"
+    },
+    {	"team_num":"3593", 
+        "team_name":"Invictus",
+        "team_loc":"Tulsa, OK"
+    },
+    {	"team_num":"3743", 
+        "team_name":"Eagle Bots",
+        "team_loc":"Salado, TX"
+    },
+    {	"team_num":"3802", 
+        "team_name":"RoboPOP",
+        "team_loc":"Carrollton, TX"
+    },
+    {	"team_num":"3997", 
+        "team_name":"Screaming Chickens",
+        "team_loc":"San Antonio, TX"
+    },
+    {	"team_num":"3999", 
+        "team_name":"Shadetree Robotics",
+        "team_loc":"Killeen, TX"
+    },
+    {	"team_num":"4192", 
+        "team_name":"The Juggernauts",
+        "team_loc":"Flowermound, TX"
+    },
+    {	"team_num":"4256", 
+        "team_name":"Cyborg Cats",
+        "team_loc":"Chesterfield, MO"
+    },
+    {	"team_num":"4335", 
+        "team_name":"Mertallic Clouds",
+        "team_loc":"Waco, TX"
+    },
+    {	"team_num":"4412", 
+        "team_name":"Steel Stallions",
+        "team_loc":"San Antonio, TX"
+    },
+    {	"team_num":"5212", 
+        "team_name":"TAMSformers Robotics",
+        "team_loc":"Denton, TX"
+    },
+    {	"team_num":"5414", 
+        "team_name":"Pearadox",
+        "team_loc":"Pearland, TX"
+    },
+    {	"team_num":"5431", 
+        "team_name":"Titan Robotics",
+        "team_loc":"Plano, TX"
+    },
+    {	"team_num":"5472", 
+        "team_name":"Stallions",
+        "team_loc":"Delray Beach, FL"
+    },
+    {	"team_num":"5866", 
+        "team_name":"Fe Tigers",
+        "team_loc":"Wolfforth, TX"
+    },
+    {	"team_num":"5888", 
+        "team_name":"Mustang Robotics",
+        "team_loc":"Lubbock, TX"
+    },
+    {	"team_num":"6133", 
+        "team_name":"Haltom Robotics",
+        "team_loc":"Fort Worth, TX"
+    },
+    {	"team_num":"6171", 
+        "team_name":"Chain Reaction Robotics",
+        "team_loc":"Plano, TX"
+    },
+    {	"team_num":"6173", 
+        "team_name":"Elgin Metal Mayhen",
+        "team_loc":"Elgin, TX"
+    },
+    {	"team_num":"6237", 
+        "team_name":"Martin Motion",
+        "team_loc":"Neponset, IL"
+    },
+    {	"team_num":"6321", 
+        "team_name":"R-Cubed Rouse Raider Robotics",
+        "team_loc":"Leander, TX"
+    },
+    {	"team_num":"6357", 
+        "team_name":"The Spring Konstant",
+        "team_loc":"Dripping Springs, TX"
+    },
+    {	"team_num":"6369", 
+        "team_name":"Mercenary Robotics",
+        "team_loc":"McKinney, TX"
+    },
+    {	"team_num":"6448", 
+        "team_name":"LBJ Early College High School",
+        "team_loc":"Austin, TX"
+    },
+    {	"team_num":"6727", 
+        "team_name":"Greene Machine",
+        "team_loc":"Belton, TX"
+    }
+]  

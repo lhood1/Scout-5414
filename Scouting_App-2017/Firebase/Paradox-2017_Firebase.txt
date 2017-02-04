@@ -1,0 +1,22 @@
+
+
+URL:
+https://console.firebase.google.com/project/paradox-2017/overview  
+
+
+DataBase:
+https://paradox-2017.firebaseio.com/
+ 
+paradox-2017
+ devices
+ matches
+ students
+ teams
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Storage:
+gs://paradox-2017.appspot.com 
+  /images
